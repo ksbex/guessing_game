@@ -1,0 +1,6 @@
+# Guessing Game Tutorial
+
+Just messing around with the [rust book][rustbook]
+
+[rustbook]: https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html
+
